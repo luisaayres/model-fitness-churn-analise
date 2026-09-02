@@ -34,7 +34,7 @@ Foram utilizados modelos de classificação e técnicas de clusterização para 
 - Avaliação da taxa de churn por cluster;
 - Criação de perfis de clientes e recomendações de retenção.
 
-📈 Principais Resultados
+## 📈 Principais Resultados
 - Foram analisados 4.000 clientes e 14 variáveis;
 - A taxa geral de churn foi de aproximadamente 26,5%;
 - Clientes que permaneceram apresentaram maior frequência de visitas, contratos mais longos, maior tempo de permanência e maior participação em sessões de grupo;
