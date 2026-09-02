@@ -46,9 +46,15 @@ Foram utilizados modelos de classificação e técnicas de clusterização para 
 
 ## 💡 Conclusão
 
-Os resultados indicam que o engajamento e a frequência de utilização da academia estão fortemente associados à retenção dos clientes. Clientes com contratos mais longos, maior frequência de visitas, maior lifetime e participação em atividades de grupo apresentam um perfil mais leal.
+A análise dos agrupamentos mostrou que os clientes possuem perfis e níveis de risco de saída diferentes. Portanto, uma estratégia de retenção segmentada é mais adequada.
 
-A estratégia de retenção deve priorizar os clientes com baixa frequência de visitas, contratos curtos e pouco tempo de relacionamento, utilizando os clusters identificados para direcionar ações específicas de engajamento e fidelização.
+- Priorizar os clusters 3 e 2: apresentam as maiores taxas de churn e devem receber campanhas específicas de retenção, incentivos de frequência, benefícios e ações de renovação.
+- Trabalhar preventivamente com o cluster 1: com churn intermediário de 26,75%, esse grupo deve ser monitorado para identificar sinais de redução de frequência e evitar o aumento do risco de saída.
+- Estimular clientes pouco engajados: ações como desafios de frequência, notificações, recompensas por visitas e incentivos à renovação podem aumentar o engajamento.
+- Fidelizar os clusters 0 e 4: por apresentarem baixa rotatividade, esses clientes podem receber benefícios exclusivos, programas de fidelidade e incentivos para indicação e consumo de serviços adicionais.
+- Personalizar as estratégias: os diferentes perfis identificados indicam que uma única abordagem para todos os clientes não seria a mais adequada.
+
+Em resumo, a prioridade deve ser reduzir a rotatividade dos clusters 3 e 2, enquanto os clusters 0 e 4 devem receber ações de fidelização e aumento de receita. A segmentação permite direcionar os esforços de retenção para os clientes com maior risco e fortalecer o relacionamento com os clientes mais leais.
 
 ## 📓 Notebook
 
