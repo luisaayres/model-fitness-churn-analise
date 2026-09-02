@@ -20,7 +20,7 @@ Foram utilizados modelos de classificação e técnicas de clusterização para 
 - NumPy
 - Matplotlib
 - Seaborn
-- Scikit-learn
+- Scikit-Learn
 - SciPy
 - Jupyter Notebook
 
