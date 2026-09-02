@@ -35,15 +35,14 @@ Foram utilizados modelos de classificação e técnicas de clusterização para 
 - Criação de perfis de clientes e recomendações de retenção.
 
 ## 📈 Principais Resultados
-- Foram analisados 4.000 clientes e 14 variáveis;
-- A taxa geral de churn foi de aproximadamente 26,5%;
-- Clientes que permaneceram apresentaram maior frequência de visitas, contratos mais longos, maior tempo de permanência e maior participação em sessões de grupo;
-- Clientes que permaneceram frequentaram a academia, em média, 2,03 vezes por semana no mês atual, contra 1,04 vez entre os clientes que saíram;
-- O lifetime médio foi de 4,71 meses entre os clientes que permaneceram, contra 0,99 mês entre os que saíram;
-- A regressão logística apresentou melhor desempenho que a floresta aleatória, com acurácia de 91,9%, precisão de 86,6% e sensibilidade de 81,2%;
-- O K-Means identificou 5 clusters com diferentes perfis de clientes e taxas de churn;
-- Os clusters apresentaram diferenças relevantes de comportamento, permitindo identificar grupos mais vulneráveis à saída e grupos mais leais;
-- Características como frequência de visitas, duração do relacionamento, período de contrato e participação em atividades de grupo mostraram-se importantes para diferenciar clientes com maior e menor risco de churn.
+- A taxa geral de churn foi de aproximadamente 26,5%, indicando uma parcela relevante de clientes em risco de saída.
+- Clientes que permaneceram apresentaram maior frequência de visitas, maior tempo de relacionamento, contratos mais longos e maior participação em sessões de grupo.
+- A frequência média de visitas no mês atual foi de 2,03 vezes por semana entre clientes que permaneceram, contra 1,04 vez entre os que saíram.
+- O lifetime médio foi de 4,71 meses entre clientes que permaneceram, contra 0,99 mês entre os clientes que saíram.
+- A Regressão Logística apresentou o melhor desempenho preditivo, com 91,9% de acurácia, 86,6% de precisão e 81,2% de sensibilidade.
+- A segmentação por K-Means identificou 5 grupos de clientes, com diferenças relevantes de comportamento e taxas de churn.
+- Os grupos com maior risco de churn são caracterizados principalmente por menor frequência de visitas, menor tempo de relacionamento e contratos mais curtos.
+- Os resultados indicam que estratégias de retenção devem priorizar clientes com baixo engajamento e maior risco de churn, utilizando ações de incentivo à frequência, participação em atividades e fidelização.
 
 ## 💡 Conclusão
 
